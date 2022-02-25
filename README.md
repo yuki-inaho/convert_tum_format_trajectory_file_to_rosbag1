@@ -1,4 +1,4 @@
-Converter scripts for TUM-RGBD format trajectory file (*.txt) -> ROS1 bagfile (*.bag) via [evo](https://github.com/MichaelGrupp/evo)
+Converter scripts for TUM-RGBD format trajectory file (\*.txt) -> ROS1 bagfile (\*.bag) via [evo](https://github.com/MichaelGrupp/evo)
 
 # Usage
 ```
